@@ -27,7 +27,7 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 </p>
 
-<table align="center" width="70%">
+<table align="left" width="60%">
 <tr>
 <td>
 
@@ -35,15 +35,15 @@
 
 - 📝 I rarely write articles on [my blog](https://walkswithme.net/my-blog/)
 
-- 💬 Ask me about ** PHP, Laravel, AWS , Linux **
+- 💬 Ask me about **PHP, Laravel, AWS , Linux**
 
 - 📫 How to reach me **jobinjose01@gmail.com**
 
 - 📄 Know about my experiences [here](https://walkswithme.net/about/)
 
 </td>
-<td>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jobinjose01&show_icons=true&locale=en" alt="jobinjose01" /></p>
+<td>  
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jobinjose01&show_icons=true&locale=en" alt="jobinjose01" />
 </td>
 </tr>
 </table>
