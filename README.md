@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jobin Jose</h1>
-<h3 align="center">A passionate fullstack Developer from India</h3><br/>
+<h3 align="center">A passionate FullStack Developer from India</h3><br/>
 
 
 <p align="center"> 
@@ -27,19 +27,19 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 </p>
 
-<table align="center">
+<table align="center" width="70%">
 <tr>
 <td>
 
 - 🌱 I’m currently learning **Go, CyberSecuirty**
 
-- 📝 I rarely write articles on [https://walkswithme.net/my-blog/](https://walkswithme.net/my-blog/)
+- 📝 I rarely write articles on [my blog](https://walkswithme.net/my-blog/)
 
-- 💬 Ask me about **PHP, Laravel, AWS , Linux , Servers etc**
+- 💬 Ask me about ** PHP, Laravel, AWS , Linux **
 
 - 📫 How to reach me **jobinjose01@gmail.com**
 
-- 📄 Know about my experiences [https://walkswithme.net/about/](https://walkswithme.net/about/)
+- 📄 Know about my experiences [here](https://walkswithme.net/about/)
 
 </td>
 <td>
