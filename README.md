@@ -31,13 +31,13 @@
 <tr>
 <td>
 
-- 🌱 I’m currently learning **Go, CyberSecuirty**
+- 🌱 I’m currently learning **Go, CyberSecurity**
 
 - 📝 I rarely write articles on [my blog](https://walkswithme.net/my-blog/)
 
 - 💬 Ask me about **PHP, Laravel, AWS , Linux**
 
-- 📫 How to reach me **jobinjose01@gmail.com**
+- 📫 How to reach me **[Contact Me](https://walkswithme.net/contact-me/)**
 
 - 📄 Know about my experiences [here](https://walkswithme.net/about/)
 
