@@ -41,7 +41,7 @@
 
 </td>
 <td>  
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jobinjose01&show_icons=true&locale=en" alt="jobinjose01" />
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jobinjose01)](https://github.com/anuraghazra/github-readme-stats)
 </td>
 </tr>
 </table>
