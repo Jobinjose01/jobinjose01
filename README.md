@@ -38,13 +38,10 @@
 - 📫 How to reach me **[Contact Me](https://walkswithme.net/contact-me/)**
 
 - 📄 Know about my experiences [here](https://walkswithme.net/about/)
-
-</td>
-<td>  
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jobinjose01)](https://github.com/anuraghazra/github-readme-stats)
 </td>
 </tr>
 </table>
+
 
 
 
