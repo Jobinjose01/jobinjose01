@@ -39,6 +39,9 @@
 
 - 📄 Know about my experiences [here](https://walkswithme.net/about/)
 </td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobinjose01&layout=compact" />
+</td>
 </tr>
 </table>
 
