@@ -33,14 +33,11 @@
 
 - 📝 I rarely write articles on [my blog](https://walkswithme.net/my-blog/)
 
-- 💬 Ask me about **PHP, Laravel, AWS , Linux**
+- 💬 Ask me about **NodeJS, PHP, Laravel, AWS , Linux**
 
 - 📫 How to reach me **[Contact Me](https://walkswithme.net/contact-me/)**
 
 - 📄 Know about my experiences [here](https://walkswithme.net/about/)
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobinjose01&layout=compact" />
 </td>
 </tr>
 </table>
