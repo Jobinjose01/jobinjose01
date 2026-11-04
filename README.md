@@ -1,47 +1,180 @@
-<h1 align="center">Hi 👋, I'm Jobin Jose</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3><br/>
+<!--
+  Jobin Jose | GitHub Profile README
+  Repository: jobinjose01/jobinjose01
+-->
 
+<h1 align="center">Hi, I'm Jobin Jose 👋</h1>
 
-<p align="center"> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
-<a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> 
-<a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
+<h3 align="center">
+  Technical Architect | Full Stack Engineer | Certified Scrum Master
+</h3>
 
+<p align="center">
+  <b>16+ Years of IT Experience | Founder & CEO @ OrhaByte Software Labs LLP</b>
 </p>
 
-<table align="left" width="60%">
-<tr>
-<td>
+<p align="center">
+  <a href="https://orhabyte.com">
+    <img src="https://img.shields.io/badge/OrhaByte-Software%20Labs-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.scrum.org/user/746102">
+    <img src="https://img.shields.io/badge/Certified-Scrum%20Master-2E8B57?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+  </a>
+  <a href="https://github.com/jobinjose01">
+    <img src="https://img.shields.io/github/followers/jobinjose01?style=for-the-badge&logo=github&label=Followers" />
+  </a>
+</p>
 
-- 🌱 I’m currently learning **Go, CyberSecurity**
+---
 
-- 📝 I rarely write articles on [my blog](https://walkswithme.net/my-blog/)
+## 👨‍💻 About Me
 
-- 💬 Ask me about **NodeJS, PHP, Laravel, AWS , Linux**
+I'm a technology professional, software architect and entrepreneur with **16+ years of experience** designing, developing and delivering software solutions across Healthcare, E-commerce, Finance and Enterprise domains.
 
-- 📫 How to reach me **[Contact Me](https://walkswithme.net/contact-me/)**
+Currently, I'm the Founder & CEO of **OrhaByte Software Labs LLP**, where we build innovative software products, SaaS platforms, AI-powered applications and enterprise solutions.
 
-- 📄 Know about my experiences [here](https://walkswithme.net/about/)
-</td>
-</tr>
-</table>
+I enjoy working across the entire software engineering lifecycle — from understanding business requirements and designing scalable architectures to writing production-ready code, managing infrastructure and delivering products.
 
+I'm equally comfortable discussing system architecture, developing backend services, optimizing databases, configuring Linux servers or exploring new possibilities with AI.
 
+### What I Do
 
+- 🏗️ **Software Architecture:** Designing scalable applications, microservices and distributed systems.
+- 💻 **Full Stack Engineering:** Building modern web applications, APIs and mobile solutions.
+- ☁️ **Cloud & Infrastructure:** Linux administration, VPS hosting, AWS, GCP, deployment and server security.
+- 🤖 **AI & R&D:** Exploring LLMs, RAG, AI agents, local AI infrastructure and intelligent automation.
+- 🏥 **Healthcare Technology:** HL7, FHIR, EDI, EHR, RCM and healthcare interoperability.
+- 🚀 **Product Development:** Building SaaS platforms and transforming business ideas into production-ready software.
+- 📋 **Agile Leadership:** Certified Scrum Master with experience in project planning, technical leadership and engineering delivery.
 
+---
+
+## 🛠️ Technology Stack
+
+### Programming Languages & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,go,php,python" />
+</p>
+
+### Frontend & Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,vue,react,html,css,bootstrap,flutter" />
+</p>
+
+### Frameworks & CMS
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Joomla-5091CD?style=flat-square&logo=joomla&logoColor=white" />
+  <img src="https://img.shields.io/badge/PrestaShop-DF0067?style=flat-square&logo=prestashop&logoColor=white" />
+</p>
+
+### Databases & Caching
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+</p>
+
+### Cloud, DevOps & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,aws,gcp,nginx,git,github,bash" />
+</p>
+
+### AI & Emerging Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM%20Integration-412991?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-0A9396?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Agents-7B2CBF?style=flat-square" />
+  <img src="https://img.shields.io/badge/ComfyUI-222222?style=flat-square" />
+</p>
+
+---
+
+## 🏥 Industry & Domain Expertise
+
+| Domain | Technologies & Expertise |
+|---|---|
+| Healthcare IT | HL7, FHIR, EDI, EHR, RCM, Healthcare Interoperability |
+| E-commerce | Online Commerce, Payment Integration, Inventory & Order Management |
+| Finance | Financial Workflows, Transaction Processing, Enterprise Applications |
+| SaaS & Enterprise | Multi-tenancy, Microservices, API Development, Business Automation |
+| Infrastructure | Linux Servers, VPS Hosting, Cloud Deployment, Server Security |
+
+---
+
+## 🚀 Current Focus & Innovation
+
+I'm particularly interested in building practical technology solutions that solve real-world business problems.
+
+Some areas I'm actively exploring:
+
+- 🤖 Local AI infrastructure and LLM-powered applications.
+- 🧠 Retrieval-Augmented Generation (RAG) and intelligent AI agents.
+- 🏥 Healthcare SaaS platforms and digital health ecosystems.
+- ☁️ Scalable microservices and cloud-native architectures.
+- 🔐 Infrastructure automation and application security.
+- 📱 Cross-platform applications using Flutter.
+
+---
+
+## 💡 Selected Projects
+
+A few areas of my open-source and engineering work:
+
+| Project | Description |
+|---|---|
+| [EDI X12 ANSI 270](https://github.com/walkswithme/EDI-X12-ANSI-270) | PHP library for generating healthcare eligibility inquiry EDI transactions. |
+| [EDI X12 ANSI 837P](https://github.com/walkswithme/EDI-X12-ANSI-837p) | PHP library for generating professional healthcare claim transactions. |
+| [NodeTS Starter Kit](https://github.com/jobinjose01/NodeTS-Starter-Kit) | TypeScript-based Node.js starter kit with CRUD code generation. |
+| [Deployment Tool](https://github.com/jobinjose01/Deployment-Tool) | Go-based application deployment automation tool. |
+| [Laravel Admin](https://github.com/walkswithme/laravel-admin) | Laravel administration template with permission management. |
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jobinjose01&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobinjose01&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jobinjose01&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with fellow developers, technology leaders, entrepreneurs and people building meaningful software products.
+
+<p align="center">
+  <a href="https://orhabyte.com">
+    <img src="https://img.shields.io/badge/Website-OrhaByte-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jobin-jose-714564119/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/1258004/jobin">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+  <a href="https://www.scrum.org/user/746102">
+    <img src="https://img.shields.io/badge/Scrum.org-Certification-009FDA?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Building technology. Solving problems. Creating impact.</b>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
