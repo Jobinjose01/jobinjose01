@@ -20,8 +20,8 @@
   <a href="https://www.scrum.org/user/746102">
     <img src="https://img.shields.io/badge/Certified-Scrum%20Master-2E8B57?style=for-the-badge&logo=scrumalliance&logoColor=white" />
   </a>
-  <a href="https://github.com/jobinjose01">
-    <img src="https://img.shields.io/github/followers/jobinjose01?style=for-the-badge&logo=github&label=Followers" />
+  <a href="https://tryhackme.com/p/jobinjose01">
+    <img src="https://img.shields.io/badge/TryHackMe-Cyber%20Security-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
 </p>
 
