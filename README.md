@@ -97,6 +97,18 @@ I'm equally comfortable discussing system architecture, developing backend servi
 </p>
 
 ---
+## 🐍 My GitHub Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/jobinjose01/jobinjose01/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/jobinjose01/jobinjose01/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake Animation"
+      src="https://raw.githubusercontent.com/jobinjose01/jobinjose01/output/github-snake.svg" />
+  </picture>
+</p>
 
 ## 🏥 Industry & Domain Expertise
 
